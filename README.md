@@ -10,7 +10,7 @@ All data is fictional and does not represent any real employee, organization, or
 | Template                   | Description                                                                                                                            | File                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Investigation Tracker      | Excel-based template to support HR investigation follow-up and deadline tracking.                                                      | [Download Excel](Excel-Templates/Investigation-Tracker.xlsx)      |
-| Appraisal Support Template | Excel-based template to support employee appraisal follow-up using formulas such as INDEX, MATCH, WORKDAY, and conditional formatting. | [Download Excel]([Appraisal_Support_Template_Fictional_Data.xlsx (https://github.com/user-attachments/files/29769302/Appraisal_Support_Template_Fictional_Data.xlsx) |
+| Appraisal Support Template | Excel-based template to support employee appraisal follow-up using formulas such as INDEX, MATCH, WORKDAY, and conditional formatting. |(https://github.com/user-attachments/files/29769302/Appraisal_Support_Template_Fictional_Data.xlsx) |
 | Outlook Rules Workflow     | A simple guide explaining how HR emails can be organized using Outlook rules and folders.                                              | [View Guide](Outlook-Workflow/Outlook-Rules-Guide.pdf)            |
 
 ---
