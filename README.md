@@ -9,27 +9,10 @@ All data is fictional and does not represent any real employee, organization, or
 
 | Template                   | Description                                                                                                                            | File                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Investigation Tracker      | Excel-based template to support HR investigation follow-up and deadline tracking.                                                      | [Download Excel](Excel-Templates/Investigation-Tracker.xlsx)      |
+| Investigation Tracker      | Excel-based template to support HR investigation follow-up and deadline tracking.                                                      | (https://github.com/user-attachments/files/29769908/Investigation_Complaint_Tracker_Fictional_Inputs.xlsx) |
 | Appraisal Support Template | Excel-based template to support employee appraisal follow-up using formulas such as INDEX, MATCH, WORKDAY, and conditional formatting. |(https://github.com/user-attachments/files/29769302/Appraisal_Support_Template_Fictional_Data.xlsx) |
-| Outlook Rules Workflow     | A simple guide explaining how HR emails can be organized using Outlook rules and folders.                                              | [View Guide](Outlook-Workflow/Outlook-Rules-Guide.pdf)            |
+| Outlook Rules Workflow     | A simple guide explaining how HR emails can be organized using Outlook rules and folders.                                                 | (https://github.com/user-attachments/files/29774220/Outlook_Rules_Workflow_Guide_Folders.pdf)       |
 
----
-
-## Appraisal Support Template Preview
-
-![Appraisal Support Template Preview](Screenshots/appraisal-template-preview.png)
-
----
-
-## Investigation Tracker Preview
-
-![Investigation Tracker Preview](Screenshots/investigation-template-preview.png)
-
----
-
-## Outlook Workflow Preview
-
-![Outlook Workflow Preview](Screenshots/outlook-workflow-preview.png)
 
 ---
 
