@@ -23,9 +23,3 @@ All data is fictional and does not represent any real employee, organization, or
 * WORKDAY / NETWORKDAYS.INTL
 * Conditional Formatting
 * Microsoft Outlook Rules
-
----
-
-## Privacy Note
-
-All files and screenshots in this repository use fictional data created for portfolio purposes only. No real employee names, emails, records, or organizational information are included.
